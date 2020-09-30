@@ -30,7 +30,8 @@ But you don't have to do the conversion yourself
 ```java
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i += 2)
-    li.add(i);```
+    li.add(i);
+    ```
 
 is really
 
