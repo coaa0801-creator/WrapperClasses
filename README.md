@@ -4,7 +4,7 @@ Wrapper classes provide a way to use primitive data types ( int , boolean , etc.
 
 * Subclasses of Number
 
-![Number Subclasses](images/number_classes.jpeg)
+![Number Subclasses](images/number_classes.png)
 
 
 [Next](Autoboxing.md)
