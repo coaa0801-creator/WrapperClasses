@@ -1,8 +1,8 @@
 ## Constructors
 Every Wrapper Class has 2 Constructors
 
-* Class(primitive)
-* Class(String)
+* ClassType(primitive)
+* ClassType(String)
 
 Except Character and Float
 
@@ -17,4 +17,6 @@ Practice Test2 Question 40
 
 Unique in how it parses
 
-Practice Test2 Quetion 28 
+Boolean.TRUE and Boolean.FALSE
+
+Practice Test2 Question 28
