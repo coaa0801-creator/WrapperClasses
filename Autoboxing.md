@@ -31,15 +31,15 @@ But you don't have to do the conversion yourself
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i += 2)
     li.add(i);
-    ```
+```
 
-is really
+What is really happening
 
 ```java
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i += 2)
     li.add(Integer.valueOf(i));
-    ```
+```
 * Incrementing works with Wrapper Classes thanks to Autoboxing
 
 ```java
