@@ -2,9 +2,20 @@
 
 Wrapper classes provide a way to use primitive data types ( int , boolean , etc..) as objects.
 
-* Subclasses of Number
+* Contained in java.util
+* Corresponding number range still applies
+* Default value "null"
+* Immutable
 
-![Number Subclasses](images/primitive_compare.png)
+Practice Test2 Question 43
+
+![Number Subclasses](images/InheritanceTree.png)
+
+# Useful for
+
+* Comparing primitives to other objects
+
+* Storing primitive type variables in Collections (Lists, Vectors, Maps etc.)
 
 
 [Next](Autoboxing.md)
