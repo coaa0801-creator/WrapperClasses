@@ -5,4 +5,4 @@ Wrapper classes provide a way to use primitive data types ( int , boolean , etc.
 
 
 
-[Next](Autoboxing Increment Hierarchy.md)
+[Next](Autoboxing.md)
