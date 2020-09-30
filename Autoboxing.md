@@ -10,7 +10,8 @@ public class AutoBoxingTest {
       Integer obj = Integer.valueOf(num); // creating a wrapper class object
       System.out.println(num + " " + obj);
    }
-}```
+}
+```
 
 This can go both ways
 
@@ -21,7 +22,8 @@ public class UnboxingTest {
       int num = obj.intValue(); // Converting the wrapper object to primitive datatype
       System.out.println(num + " " + obj);
    }
-}```
+}
+```
 
 But you don't have to do the conversion yourself
 
@@ -35,7 +37,8 @@ is really
 ```java
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i += 2)
-    li.add(Integer.valueOf(i));```
+    li.add(Integer.valueOf(i));
+    ```
 
 
 
@@ -49,7 +52,8 @@ public class Example {
       count += 1;
     }
   }
-}```
+}
+```
 
 * Be careful to only use Wrapper Class when necessary (memory)   
 
