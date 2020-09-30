@@ -1,4 +1,4 @@
-## Wrapper Classes
+# Wrapper Classes
 
 Wrapper classes provide a way to use primitive data types ( int , boolean , etc..) as objects.
 
@@ -11,7 +11,7 @@ Practice Test2 Question 43
 
 ![Number Subclasses](images/InheritanceTree.png)
 
-# Useful for
+## Useful for
 
 * Comparing primitives to other objects
 
