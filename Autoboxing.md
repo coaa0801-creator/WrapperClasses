@@ -33,14 +33,14 @@ for (int i = 1; i < 50; i += 2)
     li.add(i);
 ```
 
-What is really happening
+is really
 
 ```java
 List<Integer> li = new ArrayList<>();
 for (int i = 1; i < 50; i += 2)
     li.add(Integer.valueOf(i));
 ```
-* Incrementing works with Wrapper Classes thanks to Autoboxing
+Incrementing works with Wrapper Classes thanks to Autoboxing
 
 ```java
 public class Example {
